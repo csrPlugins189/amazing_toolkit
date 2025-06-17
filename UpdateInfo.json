@@ -1,5 +1,5 @@
 {
-"version" : "1.0.2",
+"version" : "1.0.1",
 "whatsNew" : "Added a Sepperate Tab for Help and Feedback.\nMore Options Button has been removed.\nYou will be notified when a New update is Released.\nFixed the Issue where the Text Analyzer and Text Reverser doesn't supports the Longer Texts.\nMore Stability Improvements.\nCustomizable Options (Settings) are coming soon.",
 "url" : "https://github.com/csrPlugins189/amazing_toolkit/releases"
 }
